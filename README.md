@@ -13,9 +13,14 @@ Each page on the site has a matching Markdown file.
 | File | Page |
 |---|---|
 | `home.md` | Home |
+| `the-problem.md` | The Problem |
+| `why-medicine-hat.md` | Why Medicine Hat |
+| `the-project.md` | The Project |
+| `ai-safety.md` | AI Safety |
+| `partnerships.md` | Partnerships |
 | `about.md` | About |
-| `research.md` | Research |
-| `contact.md` | Contact |
+| `get-involved.md` | Get Involved |
+| `footer.md` | Site footer (all pages) |
 
 Files are added as pages are published.
 
