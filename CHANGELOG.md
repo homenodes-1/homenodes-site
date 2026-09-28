@@ -2,23 +2,24 @@
 
 All notable changes to homenodes.ca content are recorded here.
 
-Dates use YYYY-MM-DD.
+Dates use YYYY-MM-DD. Newest entries first.
 
-## [Unreleased]
+## 2026-09-28 (update)
 
-### Planned
-- Initial mirror of all published pages
-- Add GitHub organization link to site footer and About page
+### Changed
+- About: funding paragraph corrected. HomeNodes is self-funded and a BlueDot Impact application is in preparation, not submitted.
+- Partnerships: BlueDot Impact card corrected to "preparing an application."
 
-## [2026-09-25]
+## 2026-09-28
+
+### Added
+- Baseline mirror of all published pages and the site footer.
+- The Project: house diagram above the phase cards.
+- AI Safety: The Test and The Operator sections.
+
+## 2026-09-25
 
 ### Added
 - Repository created
 - README with purpose and update process
 - CC BY 4.0 license
-
-## 2026-09-28
-
-- Added baseline mirror of all published pages and the site footer.
-- The Project: includes house diagram above the phase cards.
-- AI Safety: includes The Test and The Operator sections.
