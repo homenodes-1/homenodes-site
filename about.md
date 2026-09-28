@@ -10,7 +10,7 @@ HomeNodes is an independent research initiative investigating the governance gap
 
 ## Independent. Open. Public.
 
-HomeNodes is funded through research grants and personal investment. Current funding applications are active with the IEEE Computer Society Emerging Technologies Fund and BlueDot Impact. The proof of concept is underway in Medicine Hat, Alberta.
+HomeNodes is self-funded. A grant application to BlueDot Impact is in preparation. The proof of concept is underway in Medicine Hat, Alberta.
 
 For research inquiries: [research@homenodes.ca](mailto:research@homenodes.ca)
 
