@@ -18,7 +18,7 @@ HomeNodes has submitted a proposal to the IEEE Computer Society Emerging Technol
 
 ### BLUEDOT IMPACT
 
-HomeNodes has applied to BlueDot Impact's Rapid Grants program to support the proof of concept build and early research phase. BlueDot's focus on compute governance and AI safety infrastructure aligns directly with the project's goals.
+HomeNodes is preparing an application to BlueDot Impact's Rapid Grants program to support the proof of concept build and early research phase. BlueDot's focus on compute governance and AI safety infrastructure aligns directly with the project's goals.
 
 ## Interested in partnering?
 
