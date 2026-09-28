@@ -16,3 +16,9 @@ Dates use YYYY-MM-DD.
 - Repository created
 - README with purpose and update process
 - CC BY 4.0 license
+
+## 2026-09-28
+
+- Added baseline mirror of all published pages and the site footer.
+- The Project: includes house diagram above the phase cards.
+- AI Safety: includes The Test and The Operator sections.
