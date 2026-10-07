@@ -6,7 +6,7 @@ last_mirrored: 2026-09-28
 
 # A Phased Research Build
 
-HomeNodes is not a thought experiment. It is a working research project with real hardware, real energy data, and a real governance output. The work happens in four phases, starting with a single home in Medicine Hat and expanding from there.
+HomeNodes is not a thought experiment. It is a working research project. The measurement protocol, budget, and first governance findings are published, and the proof of concept node is the next step. The work happens in four phases, starting with a single home in Medicine Hat and expanding from there.
 
 ![Cross-section of a house showing a residential AI compute node in the basement, connected to utility power, a firewall, and the internet, with the five governance domains labelled where they apply.](https://raw.githubusercontent.com/homenodes-1/homenodes-poc/main/diagrams/homenodes-house-diagram.png)
 
