@@ -6,7 +6,7 @@ last_mirrored: 2026-09-28
 
 ## Host a Node
 
-If you own your home in Medicine Hat and want to participate in Phase 2 of the research, we want to hear from you. Participants receive hardware at no cost, technical setup support, and energy cost reimbursement during the research period.
+If you own your home in Medicine Hat and want to participate in Phase 2 of the research, we want to hear from you. Participants will receive hardware at no cost, technical setup support, and energy cost reimbursement during the research period, subject to Phase 2 funding.
 
 [EXPRESS INTEREST](mailto:research@homenodes.ca)
 
