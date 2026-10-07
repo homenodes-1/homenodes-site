@@ -4,6 +4,12 @@ All notable changes to homenodes.ca content are recorded here.
 
 Dates use YYYY-MM-DD. Newest entries first.
 
+## 2026-10-07
+
+### Changed
+- The Project: intro no longer claims real hardware and energy data. Hardware has not been purchased
+- Get Involved: Phase 2 participant support made subject to Phase 2 funding
+
 ## 2026-09-28 (update)
 
 ### Changed
