@@ -17,6 +17,7 @@ Each page on the site has a matching Markdown file.
 | `why-medicine-hat.md` | Why Medicine Hat |
 | `the-project.md` | The Project |
 | `ai-safety.md` | AI Safety |
+| `threat-model.md` | Threat Model (linked from AI Safety, not in the main menu) |
 | `partnerships.md` | Partnerships |
 | `about.md` | About |
 | `get-involved.md` | Get Involved |
