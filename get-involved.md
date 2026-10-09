@@ -1,12 +1,12 @@
 ---
 page: Get Involved
 url: https://homenodes.ca/get-involved
-last_mirrored: 2026-09-28
+last_mirrored: 2026-10-09
 ---
 
 ## Host a Node
 
-If you own your home in Medicine Hat and want to participate in Phase 2 of the research, we want to hear from you. Participants will receive hardware at no cost, technical setup support, and energy cost reimbursement during the research period, subject to Phase 2 funding.
+If you own your home in Medicine Hat and want to participate in Phase 2 of the research, we want to hear from you. Participants are lent the hardware for the study period, with setup support and reimbursement for the electricity it uses, subject to Phase 2 funding. Recruitment opens only after the Phase 2 protocol has been independently reviewed.
 
 [EXPRESS INTEREST](mailto:research@homenodes.ca)
 
