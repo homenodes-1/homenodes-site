@@ -6,6 +6,9 @@ Dates use YYYY-MM-DD. Newest entries first.
 
 ## 2026-10-09
 
+### Added
+- Partnerships: Memory Lane Computers card. Supplier of the dedicated internet line and node hardware, written agreement in progress, personal relationship disclosed
+
 ### Changed
 - Partnerships: IEEE Computer Society and BlueDot Impact cards revised to describe fit without application status. Status is disclosed directly to each funder
 - About: funding paragraph revised. HomeNodes is self-funded and seeking external funding for Phase 1
