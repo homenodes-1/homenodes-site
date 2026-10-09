@@ -7,11 +7,15 @@ Dates use YYYY-MM-DD. Newest entries first.
 ## 2026-10-09
 
 ### Added
+- Phase 1: new page at /phase-1. Questions, setup, schedule, cost, and limits, with an overview diagram
+- Phase 2: new page at /phase-2. Homes, loaned hardware, schedule, consent and limits, planning estimate, with an overview diagram
 - Partnerships: Memory Lane Computers card. Supplier of the dedicated internet line and node hardware, written agreement in progress, personal relationship disclosed
 - Threat Model: new page at /threat-model. Sets out what compute oversight assumes, four ways residential compute could weaken it, what the project is not claiming, and what Phase 1 will show
 - AI Safety: new section "The threat model" between "The gap" and "The goal", linking to the new page
 
 ### Changed
+- The Project: Phase 1 renamed "Single-node study" and Phase 2 renamed "Multi-home study", both rewritten with links to the new pages. Phase 4 no longer names organizations. Status corrected: hardware has not been purchased
+- Get Involved: Phase 2 hardware is lent for the study period, not given. Recruitment opens only after independent review of the protocol
 - Partnerships: IEEE Computer Society and BlueDot Impact cards revised to describe fit without application status. Status is disclosed directly to each funder
 - About: funding paragraph revised. HomeNodes is self-funded and seeking external funding for Phase 1
 - Changelog: application status removed from earlier entries for the same reason
