@@ -16,6 +16,8 @@ Each page on the site has a matching Markdown file.
 | `the-problem.md` | The Problem |
 | `why-medicine-hat.md` | Why Medicine Hat |
 | `the-project.md` | The Project |
+| `phase-1.md` | Phase 1 (linked from The Project, not in the main menu) |
+| `phase-2.md` | Phase 2 (linked from The Project, not in the main menu) |
 | `ai-safety.md` | AI Safety |
 | `threat-model.md` | Threat Model (linked from AI Safety, not in the main menu) |
 | `partnerships.md` | Partnerships |
