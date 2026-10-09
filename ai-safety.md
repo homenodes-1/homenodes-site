@@ -1,7 +1,7 @@
 ---
 page: AI Safety
 url: https://homenodes.ca/ai-safety
-last_mirrored: 2026-09-28
+last_mirrored: 2026-10-09
 ---
 
 # What this has to do with AI safety.
@@ -15,6 +15,12 @@ Every serious compute governance proposal — hardware telemetry monitoring, tra
 ### THE GAP
 
 Distributed compute platforms already route real AI workloads to residential hardware. If inference and training can run on nodes in homes — hardware not subject to data center regulations, not covered by export control reporting, and not visible to hardware-level monitoring proposals — then the oversight mechanisms being built today have a blind spot built into them from the start.
+
+### THE THREAT MODEL
+
+There are four ways residential compute could weaken oversight: use without a regulated provider, work split across small nodes to stay under thresholds, workloads hidden in ordinary household power use, and no operator to shut it down. The threat model sets out each one, what the project is not claiming, and what Phase 1 will show.
+
+[Read the threat model](https://homenodes.ca/threat-model)
 
 ### THE GOAL
 
