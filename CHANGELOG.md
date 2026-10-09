@@ -8,6 +8,8 @@ Dates use YYYY-MM-DD. Newest entries first.
 
 ### Added
 - Partnerships: Memory Lane Computers card. Supplier of the dedicated internet line and node hardware, written agreement in progress, personal relationship disclosed
+- Threat Model: new page at /threat-model. Sets out what compute oversight assumes, four ways residential compute could weaken it, what the project is not claiming, and what Phase 1 will show
+- AI Safety: new section "The threat model" between "The gap" and "The goal", linking to the new page
 
 ### Changed
 - Partnerships: IEEE Computer Society and BlueDot Impact cards revised to describe fit without application status. Status is disclosed directly to each funder
