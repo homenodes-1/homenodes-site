@@ -1,7 +1,7 @@
 ---
 page: About
 url: https://homenodes.ca/about-1
-last_mirrored: 2026-09-28
+last_mirrored: 2026-10-09
 ---
 
 # About HomeNodes
@@ -10,7 +10,7 @@ HomeNodes is an independent research initiative investigating the governance gap
 
 ## Independent. Open. Public.
 
-HomeNodes is self-funded. A grant application to BlueDot Impact is in preparation. The proof of concept is underway in Medicine Hat, Alberta.
+HomeNodes is self-funded and is seeking external funding for Phase 1. The proof of concept is underway in Medicine Hat, Alberta.
 
 For research inquiries: [research@homenodes.ca](mailto:research@homenodes.ca)
 
