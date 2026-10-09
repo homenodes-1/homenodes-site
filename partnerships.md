@@ -1,7 +1,7 @@
 ---
 page: Partnerships
 url: https://homenodes.ca/partnerships
-last_mirrored: 2026-09-28
+last_mirrored: 2026-10-09
 ---
 
 # Who we are looking to work with.
@@ -14,11 +14,11 @@ The city's municipal utility ownership makes it a natural research partner. Home
 
 ### IEEE COMPUTER SOCIETY
 
-HomeNodes has submitted a proposal to the IEEE Computer Society Emerging Technologies Fund for support in developing and publishing the governance framework. The project aligns with IEEE technical communities in distributed processing, security and privacy, and internet governance.
+The project aligns with IEEE technical communities in distributed processing, security and privacy, and internet governance. The Emerging Technologies Fund supports work of this kind.
 
 ### BLUEDOT IMPACT
 
-HomeNodes is preparing an application to BlueDot Impact's Rapid Grants program to support the proof of concept build and early research phase. BlueDot's focus on compute governance and AI safety infrastructure aligns directly with the project's goals.
+BlueDot's focus on compute governance and AI safety infrastructure aligns directly with the project's goals. Its Rapid Grants program supports early-stage work of this kind.
 
 ## Interested in partnering?
 
